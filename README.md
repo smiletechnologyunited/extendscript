@@ -1,0 +1,4 @@
+extendscript
+============
+
+adobe extendscript sample
