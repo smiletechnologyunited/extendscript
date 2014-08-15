@@ -27,8 +27,8 @@ set THISDIR=%~dp0
 set PHOTOSHOP=C:\Program Files\Adobe\Adobe Photoshop CS6 (64 Bit)
 set SUBDIR=Presets\Scripts
 
-set SOURCE=%THISDIR%\stuSaveLayer.jsx
-set TARGET=%PHOTOSHOP%\%SUBDIR%\stuSaveLayer.jsx
+set SOURCE=%THISDIR%\stu_save_layer.jsx
+set TARGET=%PHOTOSHOP%\%SUBDIR%\stu_save_sayer.jsx
 
 if exist %TARGET%(
 	del /F /Q "%TARGET%"
